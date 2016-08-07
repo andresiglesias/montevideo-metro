@@ -1,0 +1,1298 @@
+0, Arribo cliente, t1, tres-cruces, puerto
+0, Arribo cliente, i1, independencia, puerto
+0, Arribo cliente, p1, puerto, tres-cruces
+2.66669249276, Arribo cliente, p2, puerto, tres-cruces
+5.2323091069, Arribo cliente, i2, independencia, tres-cruces
+16.7504293336, Arribo cliente, i3, independencia, puerto
+44.1095013774, Arribo cliente, p3, puerto, tres-cruces
+49.1964223839, Arribo cliente, t2, tres-cruces, puerto
+61.5405489233, Arribo cliente, p4, puerto, tres-cruces
+117.960408214, Arribo cliente, p5, puerto, tres-cruces
+130.764185016, Arribo cliente, i4, independencia, tres-cruces
+137.845065141, Arribo cliente, p6, puerto, tres-cruces
+180.447444036, Arribo cliente, p7, puerto, tres-cruces
+199.545904491, Arribo cliente, i5, independencia, tres-cruces
+239.531477302, Arribo cliente, p8, puerto, tres-cruces
+251.373828822, Arribo cliente, t3, tres-cruces, puerto
+253.782326418, Arribo cliente, i6, independencia, tres-cruces
+338.908955638, Arribo cliente, p9, puerto, tres-cruces
+447.740679683, Arribo cliente, i7, independencia, puerto
+520.856421572, Arribo cliente, i8, independencia, puerto
+527.854091219, Arribo cliente, i9, independencia, puerto
+553.343903068, Arribo cliente, i10, independencia, puerto
+554.505788666, Arribo cliente, i11, independencia, puerto
+569.700628514, Arribo cliente, i12, independencia, puerto
+575.057120551, Arribo cliente, p10, puerto, tres-cruces
+576.071782279, Arribo cliente, i13, independencia, tres-cruces
+582.959708123, Arribo cliente, i14, independencia, puerto
+590.805597487, Arribo cliente, p11, puerto, tres-cruces
+630.118704113, Arribo cliente, t4, tres-cruces, puerto
+651.661529373, Arribo cliente, i15, independencia, tres-cruces
+655.058438997, Arribo cliente, t5, tres-cruces, puerto
+658.469908521, Arribo cliente, p12, puerto, tres-cruces
+659.05459298, Arribo cliente, p13, puerto, tres-cruces
+668.522866925, Arribo cliente, i16, independencia, tres-cruces
+706.717225806, Arribo cliente, t6, tres-cruces, puerto
+765.328751795, Arribo cliente, t7, tres-cruces, puerto
+777.08013514, Arribo cliente, t8, tres-cruces, puerto
+781.090522941, Arribo cliente, t9, tres-cruces, puerto
+786.711244164, Arribo cliente, p14, puerto, tres-cruces
+795.81257003, Arribo cliente, p15, puerto, tres-cruces
+802.677679416, Arribo cliente, i17, independencia, tres-cruces
+812.488909518, Arribo cliente, t10, tres-cruces, puerto
+860.064471588, Arribo cliente, t11, tres-cruces, puerto
+949.417309416, Arribo cliente, i18, independencia, tres-cruces
+979.409901549, Arribo cliente, t12, tres-cruces, puerto
+991.812224902, Arribo cliente, t13, tres-cruces, puerto
+1000.0, Salida tren, 1, tres-cruces, puerto
+1000.0, Arribo tren, 1, tres-cruces
+1000.0, Espera, t13, tres-cruces,8.18777509806
+1000.0, Sube a tren, t13, tres-cruces
+1000.0, Espera, t12, tres-cruces,20.5900984511
+1000.0, Sube a tren, t12, tres-cruces
+1000.0, Espera, t11, tres-cruces,139.935528412
+1000.0, Sube a tren, t11, tres-cruces
+1000.0, Espera, t10, tres-cruces,187.511090482
+1000.0, Sube a tren, t10, tres-cruces
+1000.0, Espera, t9, tres-cruces,218.909477059
+1000.0, Sube a tren, t9, tres-cruces
+1000.0, Espera, t8, tres-cruces,222.91986486
+1000.0, Sube a tren, t8, tres-cruces
+1000.0, Espera, t7, tres-cruces,234.671248205
+1000.0, Sube a tren, t7, tres-cruces
+1000.0, Espera, t6, tres-cruces,293.282774194
+1000.0, Sube a tren, t6, tres-cruces
+1000.0, Espera, t5, tres-cruces,344.941561003
+1000.0, Sube a tren, t5, tres-cruces
+1000.0, Espera, t4, tres-cruces,369.881295887
+1000.0, Sube a tren, t4, tres-cruces
+1000.0, Espera, t3, tres-cruces,748.626171178
+1000.0, Sube a tren, t3, tres-cruces
+1000.0, Espera, t2, tres-cruces,950.803577616
+1000.0, Sube a tren, t2, tres-cruces
+1000.0, Espera, t1, tres-cruces,1000.0
+1000.0, Sube a tren, t1, tres-cruces
+1008.63208631, Arribo cliente, t14, tres-cruces, puerto
+1011.53950578, Arribo cliente, p16, puerto, tres-cruces
+1015.38417446, Arribo cliente, p17, puerto, tres-cruces
+1022.63888701, Arribo cliente, t15, tres-cruces, puerto
+1025.73371836, Arribo cliente, t16, tres-cruces, puerto
+1053.73772245, Arribo cliente, t17, tres-cruces, puerto
+1076.38586431, Arribo cliente, p18, puerto, tres-cruces
+1077.55742044, Arribo cliente, p19, puerto, tres-cruces
+1094.10342895, Arribo cliente, p20, puerto, tres-cruces
+1142.55612662, Arribo cliente, p21, puerto, tres-cruces
+1203.56968977, Arribo cliente, p22, puerto, tres-cruces
+1288.70078225, Arribo cliente, i19, independencia, puerto
+1297.01090798, Arribo cliente, i20, independencia, puerto
+1300.0, Arribo tren, 1, independencia
+1300.0, Espera, i20, independencia,2.98909201646
+1300.0, Sube a tren, i20, independencia
+1300.0, Espera, i19, independencia,11.299217749
+1300.0, Sube a tren, i19, independencia
+1300.0, Espera, i14, independencia,717.040291877
+1300.0, Sube a tren, i14, independencia
+1300.0, Espera, i12, independencia,730.299371486
+1300.0, Sube a tren, i12, independencia
+1300.0, Espera, i11, independencia,745.494211334
+1300.0, Sube a tren, i11, independencia
+1300.0, Espera, i10, independencia,746.656096932
+1300.0, Sube a tren, i10, independencia
+1300.0, Espera, i9, independencia,772.145908781
+1300.0, Sube a tren, i9, independencia
+1300.0, Espera, i8, independencia,779.143578428
+1300.0, Sube a tren, i8, independencia
+1300.0, Espera, i7, independencia,852.259320317
+1300.0, Sube a tren, i7, independencia
+1300.0, Espera, i3, independencia,1283.24957067
+1300.0, Sube a tren, i3, independencia
+1300.0, Espera, i1, independencia,1300.0
+1300.0, Sube a tren, i1, independencia
+1338.64014972, Arribo cliente, t18, tres-cruces, puerto
+1367.07610185, Arribo cliente, t19, tres-cruces, puerto
+1369.81012976, Arribo cliente, i21, independencia, puerto
+1415.26441974, Arribo cliente, p23, puerto, tres-cruces
+1454.29238969, Arribo cliente, p24, puerto, tres-cruces
+1538.2937621, Arribo cliente, t20, tres-cruces, puerto
+1556.29581161, Arribo cliente, i22, independencia, tres-cruces
+1556.68428435, Arribo cliente, i23, independencia, puerto
+1582.62194788, Arribo cliente, p25, puerto, tres-cruces
+1600.0, Arribo tren, 1, puerto
+1600.0, Fin tren, 1
+1600.0, Fin cliente, i1
+1600.0, Fin cliente, i3
+1600.0, Fin cliente, i7
+1600.0, Fin cliente, i8
+1600.0, Fin cliente, i9
+1600.0, Fin cliente, i10
+1600.0, Fin cliente, i11
+1600.0, Fin cliente, i12
+1600.0, Fin cliente, i14
+1600.0, Fin cliente, i19
+1600.0, Fin cliente, i20
+1600.0, Fin cliente, t1
+1600.0, Fin cliente, t2
+1600.0, Fin cliente, t3
+1600.0, Fin cliente, t4
+1600.0, Fin cliente, t5
+1600.0, Fin cliente, t6
+1600.0, Fin cliente, t7
+1600.0, Fin cliente, t8
+1600.0, Fin cliente, t9
+1600.0, Fin cliente, t10
+1600.0, Fin cliente, t11
+1600.0, Fin cliente, t12
+1600.0, Fin cliente, t13
+1603.86270686, Arribo cliente, t21, tres-cruces, puerto
+1610.41645439, Arribo cliente, i24, independencia, puerto
+1621.89452766, Arribo cliente, p26, puerto, tres-cruces
+1642.04053775, Arribo cliente, t22, tres-cruces, puerto
+1669.77760209, Arribo cliente, i25, independencia, puerto
+1692.32503238, Arribo cliente, p27, puerto, tres-cruces
+1707.56961707, Arribo cliente, p28, puerto, tres-cruces
+1748.84496648, Arribo cliente, i26, independencia, puerto
+1775.80442822, Arribo cliente, i27, independencia, puerto
+1814.75534263, Arribo cliente, t23, tres-cruces, puerto
+1909.96279713, Arribo cliente, p29, puerto, tres-cruces
+1939.80011486, Arribo cliente, t24, tres-cruces, puerto
+1948.00914369, Arribo cliente, p30, puerto, tres-cruces
+1966.50759684, Arribo cliente, p31, puerto, tres-cruces
+1982.28111458, Arribo cliente, t25, tres-cruces, puerto
+1990.90155327, Arribo cliente, p32, puerto, tres-cruces
+2000.0, Salida tren, 2, puerto, tres-cruces
+2000.0, Arribo tren, 2, puerto
+2000.0, Espera, p32, puerto,9.09844672755
+2000.0, Sube a tren, p32, puerto
+2000.0, Espera, p31, puerto,33.4924031588
+2000.0, Sube a tren, p31, puerto
+2000.0, Espera, p30, puerto,51.9908563077
+2000.0, Sube a tren, p30, puerto
+2000.0, Espera, p29, puerto,90.037202868
+2000.0, Sube a tren, p29, puerto
+2000.0, Espera, p28, puerto,292.43038293
+2000.0, Sube a tren, p28, puerto
+2000.0, Espera, p27, puerto,307.67496762
+2000.0, Sube a tren, p27, puerto
+2000.0, Espera, p26, puerto,378.105472335
+2000.0, Sube a tren, p26, puerto
+2000.0, Espera, p25, puerto,417.378052119
+2000.0, Sube a tren, p25, puerto
+2000.0, Espera, p24, puerto,545.707610311
+2000.0, Sube a tren, p24, puerto
+2000.0, Espera, p23, puerto,584.73558026
+2000.0, Sube a tren, p23, puerto
+2000.0, Espera, p22, puerto,796.430310229
+2000.0, Sube a tren, p22, puerto
+2000.0, Espera, p21, puerto,857.44387338
+2000.0, Sube a tren, p21, puerto
+2000.0, Espera, p20, puerto,905.896571055
+2000.0, Sube a tren, p20, puerto
+2000.0, Espera, p19, puerto,922.442579563
+2000.0, Sube a tren, p19, puerto
+2000.0, Espera, p18, puerto,923.614135687
+2000.0, Sube a tren, p18, puerto
+2000.0, Espera, p17, puerto,984.615825537
+2000.0, Sube a tren, p17, puerto
+2000.0, Espera, p16, puerto,988.460494218
+2000.0, Sube a tren, p16, puerto
+2000.0, Espera, p15, puerto,1204.18742997
+2000.0, Sube a tren, p15, puerto
+2000.0, Espera, p14, puerto,1213.28875584
+2000.0, Sube a tren, p14, puerto
+2000.0, Espera, p13, puerto,1340.94540702
+2000.0, Sube a tren, p13, puerto
+2000.0, Espera, p12, puerto,1341.53009148
+2000.0, Sube a tren, p12, puerto
+2000.0, Espera, p11, puerto,1409.19440251
+2000.0, Sube a tren, p11, puerto
+2000.0, Espera, p10, puerto,1424.94287945
+2000.0, Sube a tren, p10, puerto
+2000.0, Espera, p9, puerto,1661.09104436
+2000.0, Sube a tren, p9, puerto
+2000.0, Espera, p8, puerto,1760.4685227
+2000.0, Sube a tren, p8, puerto
+2000.0, Espera, p7, puerto,1819.55255596
+2000.0, Sube a tren, p7, puerto
+2000.0, Espera, p6, puerto,1862.15493486
+2000.0, Sube a tren, p6, puerto
+2000.0, Espera, p5, puerto,1882.03959179
+2000.0, Sube a tren, p5, puerto
+2000.0, Espera, p4, puerto,1938.45945108
+2000.0, Sube a tren, p4, puerto
+2000.0, Espera, p3, puerto,1955.89049862
+2000.0, Sube a tren, p3, puerto
+2000.0, Espera, p2, puerto,1997.33330751
+2000.0, Sube a tren, p2, puerto
+2000.0, Espera, p1, puerto,2000.0
+2000.0, Sube a tren, p1, puerto
+2005.38175743, Arribo cliente, p33, puerto, tres-cruces
+2012.1165227, Arribo cliente, p34, puerto, tres-cruces
+2020.51521973, Arribo cliente, i28, independencia, puerto
+2038.71192907, Arribo cliente, i29, independencia, puerto
+2135.71198742, Arribo cliente, i30, independencia, tres-cruces
+2161.07201489, Arribo cliente, i31, independencia, tres-cruces
+2195.20176228, Arribo cliente, t26, tres-cruces, puerto
+2253.70821471, Arribo cliente, t27, tres-cruces, puerto
+2261.8429865, Arribo cliente, p35, puerto, tres-cruces
+2297.19039458, Arribo cliente, t28, tres-cruces, puerto
+2300.0, Arribo tren, 2, independencia
+2300.0, Espera, i31, independencia,138.927985107
+2300.0, Sube a tren, i31, independencia
+2300.0, Espera, i30, independencia,164.288012578
+2300.0, Sube a tren, i30, independencia
+2300.0, Espera, i22, independencia,743.704188386
+2300.0, Sube a tren, i22, independencia
+2300.0, Espera, i18, independencia,1350.58269058
+2300.0, Sube a tren, i18, independencia
+2300.0, Espera, i17, independencia,1497.32232058
+2300.0, Sube a tren, i17, independencia
+2300.0, Espera, i16, independencia,1631.47713307
+2300.0, Sube a tren, i16, independencia
+2300.0, Espera, i15, independencia,1648.33847063
+2300.0, Sube a tren, i15, independencia
+2300.0, Espera, i13, independencia,1723.92821772
+2300.0, Sube a tren, i13, independencia
+2300.0, Espera, i6, independencia,2046.21767358
+2300.0, Sube a tren, i6, independencia
+2300.0, Espera, i5, independencia,2100.45409551
+2300.0, Sube a tren, i5, independencia
+2300.0, Espera, i4, independencia,2169.23581498
+2300.0, Sube a tren, i4, independencia
+2300.0, Espera, i2, independencia,2294.76769089
+2300.0, Sube a tren, i2, independencia
+2312.24005609, Arribo cliente, p36, puerto, tres-cruces
+2412.15294833, Arribo cliente, t29, tres-cruces, puerto
+2498.51255606, Arribo cliente, t30, tres-cruces, puerto
+2560.12862981, Arribo cliente, i32, independencia, tres-cruces
+2575.2462384, Arribo cliente, i33, independencia, tres-cruces
+2600.0, Arribo tren, 2, tres-cruces
+2600.0, Fin tren, 2
+2600.0, Fin cliente, i2
+2600.0, Fin cliente, i4
+2600.0, Fin cliente, i5
+2600.0, Fin cliente, i6
+2600.0, Fin cliente, i13
+2600.0, Fin cliente, i15
+2600.0, Fin cliente, i16
+2600.0, Fin cliente, i17
+2600.0, Fin cliente, i18
+2600.0, Fin cliente, i22
+2600.0, Fin cliente, i30
+2600.0, Fin cliente, i31
+2600.0, Fin cliente, p1
+2600.0, Fin cliente, p2
+2600.0, Fin cliente, p3
+2600.0, Fin cliente, p4
+2600.0, Fin cliente, p5
+2600.0, Fin cliente, p6
+2600.0, Fin cliente, p7
+2600.0, Fin cliente, p8
+2600.0, Fin cliente, p9
+2600.0, Fin cliente, p10
+2600.0, Fin cliente, p11
+2600.0, Fin cliente, p12
+2600.0, Fin cliente, p13
+2600.0, Fin cliente, p14
+2600.0, Fin cliente, p15
+2600.0, Fin cliente, p16
+2600.0, Fin cliente, p17
+2600.0, Fin cliente, p18
+2600.0, Fin cliente, p19
+2600.0, Fin cliente, p20
+2600.0, Fin cliente, p21
+2600.0, Fin cliente, p22
+2600.0, Fin cliente, p23
+2600.0, Fin cliente, p24
+2600.0, Fin cliente, p25
+2600.0, Fin cliente, p26
+2600.0, Fin cliente, p27
+2600.0, Fin cliente, p28
+2600.0, Fin cliente, p29
+2600.0, Fin cliente, p30
+2600.0, Fin cliente, p31
+2600.0, Fin cliente, p32
+2642.52246691, Arribo cliente, i34, independencia, tres-cruces
+2656.64494092, Arribo cliente, p37, puerto, tres-cruces
+2742.73094517, Arribo cliente, i35, independencia, puerto
+2749.15653403, Arribo cliente, p38, puerto, tres-cruces
+2790.34489034, Arribo cliente, t31, tres-cruces, puerto
+2818.24577817, Arribo cliente, t32, tres-cruces, puerto
+2889.45242089, Arribo cliente, i36, independencia, puerto
+2956.1237241, Arribo cliente, p39, puerto, tres-cruces
+2974.7710982, Arribo cliente, i37, independencia, puerto
+2999.09365047, Arribo cliente, t33, tres-cruces, puerto
+3000.0, Salida tren, 3, tres-cruces, puerto
+3000.0, Arribo tren, 3, tres-cruces
+3000.0, Espera, t33, tres-cruces,0.906349530028
+3000.0, Sube a tren, t33, tres-cruces
+3000.0, Espera, t32, tres-cruces,181.754221828
+3000.0, Sube a tren, t32, tres-cruces
+3000.0, Espera, t31, tres-cruces,209.655109659
+3000.0, Sube a tren, t31, tres-cruces
+3000.0, Espera, t30, tres-cruces,501.487443942
+3000.0, Sube a tren, t30, tres-cruces
+3000.0, Espera, t29, tres-cruces,587.847051669
+3000.0, Sube a tren, t29, tres-cruces
+3000.0, Espera, t28, tres-cruces,702.809605424
+3000.0, Sube a tren, t28, tres-cruces
+3000.0, Espera, t27, tres-cruces,746.291785291
+3000.0, Sube a tren, t27, tres-cruces
+3000.0, Espera, t26, tres-cruces,804.798237719
+3000.0, Sube a tren, t26, tres-cruces
+3000.0, Espera, t25, tres-cruces,1017.71888542
+3000.0, Sube a tren, t25, tres-cruces
+3000.0, Espera, t24, tres-cruces,1060.19988514
+3000.0, Sube a tren, t24, tres-cruces
+3000.0, Espera, t23, tres-cruces,1185.24465737
+3000.0, Sube a tren, t23, tres-cruces
+3000.0, Espera, t22, tres-cruces,1357.95946225
+3000.0, Sube a tren, t22, tres-cruces
+3000.0, Espera, t21, tres-cruces,1396.13729314
+3000.0, Sube a tren, t21, tres-cruces
+3000.0, Espera, t20, tres-cruces,1461.7062379
+3000.0, Sube a tren, t20, tres-cruces
+3000.0, Espera, t19, tres-cruces,1632.92389815
+3000.0, Sube a tren, t19, tres-cruces
+3000.0, Espera, t18, tres-cruces,1661.35985028
+3000.0, Sube a tren, t18, tres-cruces
+3000.0, Espera, t17, tres-cruces,1946.26227755
+3000.0, Sube a tren, t17, tres-cruces
+3000.0, Espera, t16, tres-cruces,1974.26628164
+3000.0, Sube a tren, t16, tres-cruces
+3000.0, Espera, t15, tres-cruces,1977.36111299
+3000.0, Sube a tren, t15, tres-cruces
+3000.0, Espera, t14, tres-cruces,1991.36791369
+3000.0, Sube a tren, t14, tres-cruces
+3023.08900937, Arribo cliente, i38, independencia, tres-cruces
+3025.48269835, Arribo cliente, i39, independencia, tres-cruces
+3044.61499891, Arribo cliente, t34, tres-cruces, puerto
+3065.83017971, Arribo cliente, i40, independencia, puerto
+3068.32898778, Arribo cliente, i41, independencia, tres-cruces
+3074.01031684, Arribo cliente, p40, puerto, tres-cruces
+3094.48247967, Arribo cliente, t35, tres-cruces, puerto
+3109.21754295, Arribo cliente, i42, independencia, puerto
+3158.93756281, Arribo cliente, p41, puerto, tres-cruces
+3194.32334498, Arribo cliente, t36, tres-cruces, puerto
+3235.29924256, Arribo cliente, i43, independencia, tres-cruces
+3282.06551179, Arribo cliente, t37, tres-cruces, puerto
+3300.0, Arribo tren, 3, independencia
+3300.0, Espera, i42, independencia,190.782457049
+3300.0, Sube a tren, i42, independencia
+3300.0, Espera, i40, independencia,234.169820286
+3300.0, Sube a tren, i40, independencia
+3300.0, Espera, i37, independencia,325.228901799
+3300.0, Sube a tren, i37, independencia
+3300.0, Espera, i36, independencia,410.547579106
+3300.0, Sube a tren, i36, independencia
+3300.0, Espera, i35, independencia,557.269054826
+3300.0, Sube a tren, i35, independencia
+3300.0, Espera, i29, independencia,1261.28807093
+3300.0, Sube a tren, i29, independencia
+3300.0, Espera, i28, independencia,1279.48478027
+3300.0, Sube a tren, i28, independencia
+3300.0, Espera, i27, independencia,1524.19557178
+3300.0, Sube a tren, i27, independencia
+3300.0, Espera, i26, independencia,1551.15503352
+3300.0, Sube a tren, i26, independencia
+3300.0, Espera, i25, independencia,1630.22239791
+3300.0, Sube a tren, i25, independencia
+3300.0, Espera, i24, independencia,1689.58354561
+3300.0, Sube a tren, i24, independencia
+3300.0, Espera, i23, independencia,1743.31571565
+3300.0, Sube a tren, i23, independencia
+3300.0, Espera, i21, independencia,1930.18987024
+3300.0, Sube a tren, i21, independencia
+3306.43415207, Arribo cliente, p42, puerto, tres-cruces
+3316.77720666, Arribo cliente, i44, independencia, tres-cruces
+3343.0620389, Arribo cliente, p43, puerto, tres-cruces
+3439.37392721, Arribo cliente, i45, independencia, puerto
+3443.26172462, Arribo cliente, t38, tres-cruces, puerto
+3464.84584358, Arribo cliente, p44, puerto, tres-cruces
+3512.55805407, Arribo cliente, p45, puerto, tres-cruces
+3551.71851413, Arribo cliente, i46, independencia, puerto
+3571.01375803, Arribo cliente, i47, independencia, tres-cruces
+3587.87246604, Arribo cliente, t39, tres-cruces, puerto
+3600.0, Arribo tren, 3, puerto
+3600.0, Fin tren, 3
+3600.0, Fin cliente, i21
+3600.0, Fin cliente, i23
+3600.0, Fin cliente, i24
+3600.0, Fin cliente, i25
+3600.0, Fin cliente, i26
+3600.0, Fin cliente, i27
+3600.0, Fin cliente, i28
+3600.0, Fin cliente, i29
+3600.0, Fin cliente, i35
+3600.0, Fin cliente, i36
+3600.0, Fin cliente, i37
+3600.0, Fin cliente, i40
+3600.0, Fin cliente, i42
+3600.0, Fin cliente, t14
+3600.0, Fin cliente, t15
+3600.0, Fin cliente, t16
+3600.0, Fin cliente, t17
+3600.0, Fin cliente, t18
+3600.0, Fin cliente, t19
+3600.0, Fin cliente, t20
+3600.0, Fin cliente, t21
+3600.0, Fin cliente, t22
+3600.0, Fin cliente, t23
+3600.0, Fin cliente, t24
+3600.0, Fin cliente, t25
+3600.0, Fin cliente, t26
+3600.0, Fin cliente, t27
+3600.0, Fin cliente, t28
+3600.0, Fin cliente, t29
+3600.0, Fin cliente, t30
+3600.0, Fin cliente, t31
+3600.0, Fin cliente, t32
+3600.0, Fin cliente, t33
+3651.68337814, Arribo cliente, p46, puerto, tres-cruces
+3677.95612784, Arribo cliente, t40, tres-cruces, puerto
+3681.49136814, Arribo cliente, t41, tres-cruces, puerto
+3716.97369963, Arribo cliente, i48, independencia, puerto
+3756.9928721, Arribo cliente, i49, independencia, puerto
+3761.38934479, Arribo cliente, p47, puerto, tres-cruces
+3778.19426447, Arribo cliente, t42, tres-cruces, puerto
+3803.8625046, Arribo cliente, t43, tres-cruces, puerto
+3842.76255057, Arribo cliente, p48, puerto, tres-cruces
+3847.07036828, Arribo cliente, p49, puerto, tres-cruces
+4000.0, Salida tren, 4, puerto, tres-cruces
+4000.0, Arribo tren, 4, puerto
+4000.0, Espera, p49, puerto,152.929631722
+4000.0, Sube a tren, p49, puerto
+4000.0, Espera, p48, puerto,157.237449433
+4000.0, Sube a tren, p48, puerto
+4000.0, Espera, p47, puerto,238.610655209
+4000.0, Sube a tren, p47, puerto
+4000.0, Espera, p46, puerto,348.31662186
+4000.0, Sube a tren, p46, puerto
+4000.0, Espera, p45, puerto,487.441945931
+4000.0, Sube a tren, p45, puerto
+4000.0, Espera, p44, puerto,535.154156425
+4000.0, Sube a tren, p44, puerto
+4000.0, Espera, p43, puerto,656.937961105
+4000.0, Sube a tren, p43, puerto
+4000.0, Espera, p42, puerto,693.565847933
+4000.0, Sube a tren, p42, puerto
+4000.0, Espera, p41, puerto,841.062437193
+4000.0, Sube a tren, p41, puerto
+4000.0, Espera, p40, puerto,925.98968316
+4000.0, Sube a tren, p40, puerto
+4000.0, Espera, p39, puerto,1043.8762759
+4000.0, Sube a tren, p39, puerto
+4000.0, Espera, p38, puerto,1250.84346597
+4000.0, Sube a tren, p38, puerto
+4000.0, Espera, p37, puerto,1343.35505908
+4000.0, Sube a tren, p37, puerto
+4000.0, Espera, p36, puerto,1687.75994391
+4000.0, Sube a tren, p36, puerto
+4000.0, Espera, p35, puerto,1738.1570135
+4000.0, Sube a tren, p35, puerto
+4000.0, Espera, p34, puerto,1987.8834773
+4000.0, Sube a tren, p34, puerto
+4000.0, Espera, p33, puerto,1994.61824257
+4000.0, Sube a tren, p33, puerto
+4017.26934513, Arribo cliente, t44, tres-cruces, puerto
+4096.37419002, Arribo cliente, p50, puerto, tres-cruces
+4123.96878763, Arribo cliente, i50, independencia, tres-cruces
+4166.42768828, Arribo cliente, i51, independencia, tres-cruces
+4169.32818715, Arribo cliente, t45, tres-cruces, puerto
+4177.10801014, Arribo cliente, p51, puerto, tres-cruces
+4203.6666234, Arribo cliente, p52, puerto, tres-cruces
+4219.77114762, Arribo cliente, p53, puerto, tres-cruces
+4224.52922227, Arribo cliente, t46, tres-cruces, puerto
+4267.5504534, Arribo cliente, i52, independencia, puerto
+4300.0, Arribo tren, 4, independencia
+4300.0, Espera, i51, independencia,133.57231172
+4300.0, Sube a tren, i51, independencia
+4300.0, Espera, i50, independencia,176.031212373
+4300.0, Sube a tren, i50, independencia
+4300.0, Espera, i47, independencia,728.986241971
+4300.0, Sube a tren, i47, independencia
+4300.0, Espera, i44, independencia,983.22279334
+4300.0, Sube a tren, i44, independencia
+4300.0, Espera, i43, independencia,1064.70075744
+4300.0, Sube a tren, i43, independencia
+4300.0, Espera, i41, independencia,1231.67101222
+4300.0, Sube a tren, i41, independencia
+4300.0, Espera, i39, independencia,1274.51730165
+4300.0, Sube a tren, i39, independencia
+4300.0, Espera, i38, independencia,1276.91099063
+4300.0, Sube a tren, i38, independencia
+4300.0, Espera, i34, independencia,1657.47753309
+4300.0, Sube a tren, i34, independencia
+4300.0, Espera, i33, independencia,1724.7537616
+4300.0, Sube a tren, i33, independencia
+4300.0, Espera, i32, independencia,1739.87137019
+4300.0, Sube a tren, i32, independencia
+4505.63071504, Arribo cliente, p54, puerto, tres-cruces
+4552.16924438, Arribo cliente, t47, tres-cruces, puerto
+4598.55893512, Arribo cliente, p55, puerto, tres-cruces
+4600.0, Arribo tren, 4, tres-cruces
+4600.0, Fin tren, 4
+4600.0, Fin cliente, i32
+4600.0, Fin cliente, i33
+4600.0, Fin cliente, i34
+4600.0, Fin cliente, i38
+4600.0, Fin cliente, i39
+4600.0, Fin cliente, i41
+4600.0, Fin cliente, i43
+4600.0, Fin cliente, i44
+4600.0, Fin cliente, i47
+4600.0, Fin cliente, i50
+4600.0, Fin cliente, i51
+4600.0, Fin cliente, p33
+4600.0, Fin cliente, p34
+4600.0, Fin cliente, p35
+4600.0, Fin cliente, p36
+4600.0, Fin cliente, p37
+4600.0, Fin cliente, p38
+4600.0, Fin cliente, p39
+4600.0, Fin cliente, p40
+4600.0, Fin cliente, p41
+4600.0, Fin cliente, p42
+4600.0, Fin cliente, p43
+4600.0, Fin cliente, p44
+4600.0, Fin cliente, p45
+4600.0, Fin cliente, p46
+4600.0, Fin cliente, p47
+4600.0, Fin cliente, p48
+4600.0, Fin cliente, p49
+4606.66082045, Arribo cliente, t48, tres-cruces, puerto
+4620.51614659, Arribo cliente, p56, puerto, tres-cruces
+4623.7878331, Arribo cliente, p57, puerto, tres-cruces
+4624.81597585, Arribo cliente, p58, puerto, tres-cruces
+4643.96566684, Arribo cliente, t49, tres-cruces, puerto
+4674.74822887, Arribo cliente, t50, tres-cruces, puerto
+4743.96224013, Arribo cliente, p59, puerto, tres-cruces
+4747.18436119, Arribo cliente, i53, independencia, tres-cruces
+4812.78547827, Arribo cliente, i54, independencia, puerto
+4821.40021288, Arribo cliente, p60, puerto, tres-cruces
+4822.97008356, Arribo cliente, i55, independencia, tres-cruces
+4851.78883122, Arribo cliente, i56, independencia, tres-cruces
+4897.96674712, Arribo cliente, i57, independencia, puerto
+4910.07670186, Arribo cliente, i58, independencia, puerto
+4927.79267072, Arribo cliente, i59, independencia, puerto
+4937.98652507, Arribo cliente, i60, independencia, puerto
+4939.59600942, Arribo cliente, t51, tres-cruces, puerto
+4980.69560658, Arribo cliente, i61, independencia, puerto
+5000.0, Salida tren, 5, tres-cruces, puerto
+5000.0, Arribo tren, 5, tres-cruces
+5000.0, Espera, t51, tres-cruces,60.4039905844
+5000.0, Sube a tren, t51, tres-cruces
+5000.0, Espera, t50, tres-cruces,325.25177113
+5000.0, Sube a tren, t50, tres-cruces
+5000.0, Espera, t49, tres-cruces,356.034333156
+5000.0, Sube a tren, t49, tres-cruces
+5000.0, Espera, t48, tres-cruces,393.339179548
+5000.0, Sube a tren, t48, tres-cruces
+5000.0, Espera, t47, tres-cruces,447.830755621
+5000.0, Sube a tren, t47, tres-cruces
+5000.0, Espera, t46, tres-cruces,775.470777725
+5000.0, Sube a tren, t46, tres-cruces
+5000.0, Espera, t45, tres-cruces,830.671812847
+5000.0, Sube a tren, t45, tres-cruces
+5000.0, Espera, t44, tres-cruces,982.730654873
+5000.0, Sube a tren, t44, tres-cruces
+5000.0, Espera, t43, tres-cruces,1196.1374954
+5000.0, Sube a tren, t43, tres-cruces
+5000.0, Espera, t42, tres-cruces,1221.80573553
+5000.0, Sube a tren, t42, tres-cruces
+5000.0, Espera, t41, tres-cruces,1318.50863186
+5000.0, Sube a tren, t41, tres-cruces
+5000.0, Espera, t40, tres-cruces,1322.04387216
+5000.0, Sube a tren, t40, tres-cruces
+5000.0, Espera, t39, tres-cruces,1412.12753396
+5000.0, Sube a tren, t39, tres-cruces
+5000.0, Espera, t38, tres-cruces,1556.73827538
+5000.0, Sube a tren, t38, tres-cruces
+5000.0, Espera, t37, tres-cruces,1717.93448821
+5000.0, Sube a tren, t37, tres-cruces
+5000.0, Espera, t36, tres-cruces,1805.67665502
+5000.0, Sube a tren, t36, tres-cruces
+5000.0, Espera, t35, tres-cruces,1905.51752033
+5000.0, Sube a tren, t35, tres-cruces
+5000.0, Espera, t34, tres-cruces,1955.38500109
+5000.0, Sube a tren, t34, tres-cruces
+5010.47899513, Arribo cliente, p61, puerto, tres-cruces
+5067.87764941, Arribo cliente, p62, puerto, tres-cruces
+5139.91264613, Arribo cliente, i62, independencia, puerto
+5220.17417177, Arribo cliente, t52, tres-cruces, puerto
+5231.32709026, Arribo cliente, p63, puerto, tres-cruces
+5254.32276388, Arribo cliente, t53, tres-cruces, puerto
+5283.28941772, Arribo cliente, p64, puerto, tres-cruces
+5300.0, Arribo tren, 5, independencia
+5300.0, Espera, i62, independencia,160.087353872
+5300.0, Sube a tren, i62, independencia
+5300.0, Espera, i61, independencia,319.304393418
+5300.0, Sube a tren, i61, independencia
+5300.0, Espera, i60, independencia,362.013474931
+5300.0, Sube a tren, i60, independencia
+5300.0, Espera, i59, independencia,372.207329281
+5300.0, Sube a tren, i59, independencia
+5300.0, Espera, i58, independencia,389.923298139
+5300.0, Sube a tren, i58, independencia
+5300.0, Espera, i57, independencia,402.033252878
+5300.0, Sube a tren, i57, independencia
+5300.0, Espera, i54, independencia,487.214521733
+5300.0, Sube a tren, i54, independencia
+5300.0, Espera, i52, independencia,1032.4495466
+5300.0, Sube a tren, i52, independencia
+5300.0, Espera, i49, independencia,1543.0071279
+5300.0, Sube a tren, i49, independencia
+5300.0, Espera, i48, independencia,1583.02630037
+5300.0, Sube a tren, i48, independencia
+5300.0, Espera, i46, independencia,1748.28148587
+5300.0, Sube a tren, i46, independencia
+5300.0, Espera, i45, independencia,1860.62607279
+5300.0, Sube a tren, i45, independencia
+5313.24794263, Arribo cliente, p65, puerto, tres-cruces
+5321.15767183, Arribo cliente, p66, puerto, tres-cruces
+5345.13715622, Arribo cliente, t54, tres-cruces, puerto
+5352.76092748, Arribo cliente, p67, puerto, tres-cruces
+5373.76837055, Arribo cliente, i63, independencia, tres-cruces
+5433.39871711, Arribo cliente, t55, tres-cruces, puerto
+5495.4623265, Arribo cliente, p68, puerto, tres-cruces
+5512.82220822, Arribo cliente, i64, independencia, tres-cruces
+5577.7214432, Arribo cliente, t56, tres-cruces, puerto
+5600.0, Arribo tren, 5, puerto
+5600.0, Fin tren, 5
+5600.0, Fin cliente, i45
+5600.0, Fin cliente, i46
+5600.0, Fin cliente, i48
+5600.0, Fin cliente, i49
+5600.0, Fin cliente, i52
+5600.0, Fin cliente, i54
+5600.0, Fin cliente, i57
+5600.0, Fin cliente, i58
+5600.0, Fin cliente, i59
+5600.0, Fin cliente, i60
+5600.0, Fin cliente, i61
+5600.0, Fin cliente, i62
+5600.0, Fin cliente, t34
+5600.0, Fin cliente, t35
+5600.0, Fin cliente, t36
+5600.0, Fin cliente, t37
+5600.0, Fin cliente, t38
+5600.0, Fin cliente, t39
+5600.0, Fin cliente, t40
+5600.0, Fin cliente, t41
+5600.0, Fin cliente, t42
+5600.0, Fin cliente, t43
+5600.0, Fin cliente, t44
+5600.0, Fin cliente, t45
+5600.0, Fin cliente, t46
+5600.0, Fin cliente, t47
+5600.0, Fin cliente, t48
+5600.0, Fin cliente, t49
+5600.0, Fin cliente, t50
+5600.0, Fin cliente, t51
+5603.67904403, Arribo cliente, p69, puerto, tres-cruces
+5607.53215692, Arribo cliente, t57, tres-cruces, puerto
+5652.30378604, Arribo cliente, i65, independencia, tres-cruces
+5736.37773255, Arribo cliente, t58, tres-cruces, puerto
+5753.19185077, Arribo cliente, i66, independencia, puerto
+5805.62367243, Arribo cliente, i67, independencia, puerto
+5858.83651933, Arribo cliente, i68, independencia, tres-cruces
+5863.72459128, Arribo cliente, i69, independencia, puerto
+5883.04518215, Arribo cliente, i70, independencia, puerto
+5924.95889022, Arribo cliente, i71, independencia, tres-cruces
+5969.77292823, Arribo cliente, p70, puerto, tres-cruces
+6000.0, Salida tren, 6, puerto, tres-cruces
+6000.0, Arribo tren, 6, puerto
+6000.0, Espera, p70, puerto,30.227071768
+6000.0, Sube a tren, p70, puerto
+6000.0, Espera, p69, puerto,396.320955975
+6000.0, Sube a tren, p69, puerto
+6000.0, Espera, p68, puerto,504.537673499
+6000.0, Sube a tren, p68, puerto
+6000.0, Espera, p67, puerto,647.239072522
+6000.0, Sube a tren, p67, puerto
+6000.0, Espera, p66, puerto,678.842328173
+6000.0, Sube a tren, p66, puerto
+6000.0, Espera, p65, puerto,686.752057367
+6000.0, Sube a tren, p65, puerto
+6000.0, Espera, p64, puerto,716.710582279
+6000.0, Sube a tren, p64, puerto
+6000.0, Espera, p63, puerto,768.672909736
+6000.0, Sube a tren, p63, puerto
+6000.0, Espera, p62, puerto,932.122350592
+6000.0, Sube a tren, p62, puerto
+6000.0, Espera, p61, puerto,989.52100487
+6000.0, Sube a tren, p61, puerto
+6000.0, Espera, p60, puerto,1178.59978712
+6000.0, Sube a tren, p60, puerto
+6000.0, Espera, p59, puerto,1256.03775987
+6000.0, Sube a tren, p59, puerto
+6000.0, Espera, p58, puerto,1375.18402415
+6000.0, Sube a tren, p58, puerto
+6000.0, Espera, p57, puerto,1376.2121669
+6000.0, Sube a tren, p57, puerto
+6000.0, Espera, p56, puerto,1379.48385341
+6000.0, Sube a tren, p56, puerto
+6000.0, Espera, p55, puerto,1401.44106488
+6000.0, Sube a tren, p55, puerto
+6000.0, Espera, p54, puerto,1494.36928496
+6000.0, Sube a tren, p54, puerto
+6000.0, Espera, p53, puerto,1780.22885238
+6000.0, Sube a tren, p53, puerto
+6000.0, Espera, p52, puerto,1796.3333766
+6000.0, Sube a tren, p52, puerto
+6000.0, Espera, p51, puerto,1822.89198986
+6000.0, Sube a tren, p51, puerto
+6000.0, Espera, p50, puerto,1903.62580998
+6000.0, Sube a tren, p50, puerto
+6052.7594988, Arribo cliente, p71, puerto, tres-cruces
+6086.34146102, Arribo cliente, t59, tres-cruces, puerto
+6133.75594707, Arribo cliente, i72, independencia, tres-cruces
+6143.78879101, Arribo cliente, i73, independencia, puerto
+6155.26314878, Arribo cliente, p72, puerto, tres-cruces
+6160.99449203, Arribo cliente, i74, independencia, puerto
+6168.01567866, Arribo cliente, p73, puerto, tres-cruces
+6193.40128079, Arribo cliente, p74, puerto, tres-cruces
+6235.2102765, Arribo cliente, p75, puerto, tres-cruces
+6278.54568485, Arribo cliente, t60, tres-cruces, puerto
+6300.0, Arribo tren, 6, independencia
+6300.0, Espera, i72, independencia,166.244052932
+6300.0, Sube a tren, i72, independencia
+6300.0, Espera, i71, independencia,375.041109777
+6300.0, Sube a tren, i71, independencia
+6300.0, Espera, i68, independencia,441.163480668
+6300.0, Sube a tren, i68, independencia
+6300.0, Espera, i65, independencia,647.696213956
+6300.0, Sube a tren, i65, independencia
+6300.0, Espera, i64, independencia,787.177791782
+6300.0, Sube a tren, i64, independencia
+6300.0, Espera, i63, independencia,926.231629451
+6300.0, Sube a tren, i63, independencia
+6300.0, Espera, i56, independencia,1448.21116878
+6300.0, Sube a tren, i56, independencia
+6300.0, Espera, i55, independencia,1477.02991644
+6300.0, Sube a tren, i55, independencia
+6300.0, Espera, i53, independencia,1552.81563881
+6300.0, Sube a tren, i53, independencia
+6313.56069438, Arribo cliente, p76, puerto, tres-cruces
+6320.41127874, Arribo cliente, t61, tres-cruces, puerto
+6321.80677118, Arribo cliente, p77, puerto, tres-cruces
+6328.89008225, Arribo cliente, i75, independencia, tres-cruces
+6335.33565735, Arribo cliente, p78, puerto, tres-cruces
+6344.95357582, Arribo cliente, p79, puerto, tres-cruces
+6372.8601891, Arribo cliente, t62, tres-cruces, puerto
+6403.96855137, Arribo cliente, i76, independencia, tres-cruces
+6438.31597066, Arribo cliente, p80, puerto, tres-cruces
+6494.23089214, Arribo cliente, p81, puerto, tres-cruces
+6542.96395164, Arribo cliente, p82, puerto, tres-cruces
+6547.8765591, Arribo cliente, i77, independencia, tres-cruces
+6547.94576114, Arribo cliente, p83, puerto, tres-cruces
+6586.73515824, Arribo cliente, p84, puerto, tres-cruces
+6598.70886997, Arribo cliente, t63, tres-cruces, puerto
+6600.0, Arribo tren, 6, tres-cruces
+6600.0, Fin tren, 6
+6600.0, Fin cliente, i53
+6600.0, Fin cliente, i55
+6600.0, Fin cliente, i56
+6600.0, Fin cliente, i63
+6600.0, Fin cliente, i64
+6600.0, Fin cliente, i65
+6600.0, Fin cliente, i68
+6600.0, Fin cliente, i71
+6600.0, Fin cliente, i72
+6600.0, Fin cliente, p50
+6600.0, Fin cliente, p51
+6600.0, Fin cliente, p52
+6600.0, Fin cliente, p53
+6600.0, Fin cliente, p54
+6600.0, Fin cliente, p55
+6600.0, Fin cliente, p56
+6600.0, Fin cliente, p57
+6600.0, Fin cliente, p58
+6600.0, Fin cliente, p59
+6600.0, Fin cliente, p60
+6600.0, Fin cliente, p61
+6600.0, Fin cliente, p62
+6600.0, Fin cliente, p63
+6600.0, Fin cliente, p64
+6600.0, Fin cliente, p65
+6600.0, Fin cliente, p66
+6600.0, Fin cliente, p67
+6600.0, Fin cliente, p68
+6600.0, Fin cliente, p69
+6600.0, Fin cliente, p70
+6600.80885731, Arribo cliente, t64, tres-cruces, puerto
+6689.09397124, Arribo cliente, p85, puerto, tres-cruces
+6722.05706583, Arribo cliente, t65, tres-cruces, puerto
+6755.3244029, Arribo cliente, t66, tres-cruces, puerto
+6806.66708862, Arribo cliente, t67, tres-cruces, puerto
+6819.14400599, Arribo cliente, i78, independencia, tres-cruces
+6819.68991923, Arribo cliente, t68, tres-cruces, puerto
+6846.42165725, Arribo cliente, t69, tres-cruces, puerto
+6919.85845565, Arribo cliente, t70, tres-cruces, puerto
+6999.63927932, Arribo cliente, t71, tres-cruces, puerto
+7000.0, Salida tren, 7, tres-cruces, puerto
+7000.0, Arribo tren, 7, tres-cruces
+7000.0, Espera, t71, tres-cruces,0.360720678215
+7000.0, Sube a tren, t71, tres-cruces
+7000.0, Espera, t70, tres-cruces,80.1415443477
+7000.0, Sube a tren, t70, tres-cruces
+7000.0, Espera, t69, tres-cruces,153.57834275
+7000.0, Sube a tren, t69, tres-cruces
+7000.0, Espera, t68, tres-cruces,180.31008077
+7000.0, Sube a tren, t68, tres-cruces
+7000.0, Espera, t67, tres-cruces,193.33291138
+7000.0, Sube a tren, t67, tres-cruces
+7000.0, Espera, t66, tres-cruces,244.675597101
+7000.0, Sube a tren, t66, tres-cruces
+7000.0, Espera, t65, tres-cruces,277.942934175
+7000.0, Sube a tren, t65, tres-cruces
+7000.0, Espera, t64, tres-cruces,399.191142687
+7000.0, Sube a tren, t64, tres-cruces
+7000.0, Espera, t63, tres-cruces,401.291130029
+7000.0, Sube a tren, t63, tres-cruces
+7000.0, Espera, t62, tres-cruces,627.139810896
+7000.0, Sube a tren, t62, tres-cruces
+7000.0, Espera, t61, tres-cruces,679.588721264
+7000.0, Sube a tren, t61, tres-cruces
+7000.0, Espera, t60, tres-cruces,721.454315152
+7000.0, Sube a tren, t60, tres-cruces
+7000.0, Espera, t59, tres-cruces,913.658538978
+7000.0, Sube a tren, t59, tres-cruces
+7000.0, Espera, t58, tres-cruces,1263.62226745
+7000.0, Sube a tren, t58, tres-cruces
+7000.0, Espera, t57, tres-cruces,1392.46784308
+7000.0, Sube a tren, t57, tres-cruces
+7000.0, Espera, t56, tres-cruces,1422.2785568
+7000.0, Sube a tren, t56, tres-cruces
+7000.0, Espera, t55, tres-cruces,1566.60128289
+7000.0, Sube a tren, t55, tres-cruces
+7000.0, Espera, t54, tres-cruces,1654.86284378
+7000.0, Sube a tren, t54, tres-cruces
+7000.0, Espera, t53, tres-cruces,1745.67723612
+7000.0, Sube a tren, t53, tres-cruces
+7000.0, Espera, t52, tres-cruces,1779.82582823
+7000.0, Sube a tren, t52, tres-cruces
+7039.33532763, Arribo cliente, p86, puerto, tres-cruces
+7055.73768062, Arribo cliente, p87, puerto, tres-cruces
+7117.85733336, Arribo cliente, t72, tres-cruces, puerto
+7149.22834474, Arribo cliente, i79, independencia, puerto
+7161.0348536, Arribo cliente, p88, puerto, tres-cruces
+7192.93987046, Arribo cliente, i80, independencia, tres-cruces
+7195.08375769, Arribo cliente, i81, independencia, puerto
+7200.05260365, Arribo cliente, i82, independencia, puerto
+7210.53213704, Arribo cliente, t73, tres-cruces, puerto
+7217.24623174, Arribo cliente, p89, puerto, tres-cruces
+7217.76553821, Arribo cliente, t74, tres-cruces, puerto
+7292.69199249, Arribo cliente, t75, tres-cruces, puerto
+7300.0, Arribo tren, 7, independencia
+7300.0, Espera, i82, independencia,99.9473963523
+7300.0, Sube a tren, i82, independencia
+7300.0, Espera, i81, independencia,104.916242307
+7300.0, Sube a tren, i81, independencia
+7300.0, Espera, i79, independencia,150.771655262
+7300.0, Sube a tren, i79, independencia
+7300.0, Espera, i74, independencia,1139.00550797
+7300.0, Sube a tren, i74, independencia
+7300.0, Espera, i73, independencia,1156.21120899
+7300.0, Sube a tren, i73, independencia
+7300.0, Espera, i70, independencia,1416.95481785
+7300.0, Sube a tren, i70, independencia
+7300.0, Espera, i69, independencia,1436.27540872
+7300.0, Sube a tren, i69, independencia
+7300.0, Espera, i67, independencia,1494.37632757
+7300.0, Sube a tren, i67, independencia
+7300.0, Espera, i66, independencia,1546.80814923
+7300.0, Sube a tren, i66, independencia
+7375.73796423, Arribo cliente, t76, tres-cruces, puerto
+7380.31722766, Arribo cliente, i83, independencia, puerto
+7405.69949057, Arribo cliente, t77, tres-cruces, puerto
+7417.44820267, Arribo cliente, i84, independencia, puerto
+7423.82598245, Arribo cliente, p90, puerto, tres-cruces
+7493.64416062, Arribo cliente, i85, independencia, puerto
+7500.27361034, Arribo cliente, p91, puerto, tres-cruces
+7531.21935223, Arribo cliente, p92, puerto, tres-cruces
+7531.75288574, Arribo cliente, i86, independencia, tres-cruces
+7538.21235596, Arribo cliente, p93, puerto, tres-cruces
+7546.06780948, Arribo cliente, i87, independencia, tres-cruces
+7590.31977915, Arribo cliente, p94, puerto, tres-cruces
+7594.2757463, Arribo cliente, t78, tres-cruces, puerto
+7600.0, Arribo tren, 7, puerto
+7600.0, Fin tren, 7
+7600.0, Fin cliente, i66
+7600.0, Fin cliente, i67
+7600.0, Fin cliente, i69
+7600.0, Fin cliente, i70
+7600.0, Fin cliente, i73
+7600.0, Fin cliente, i74
+7600.0, Fin cliente, i79
+7600.0, Fin cliente, i81
+7600.0, Fin cliente, i82
+7600.0, Fin cliente, t52
+7600.0, Fin cliente, t53
+7600.0, Fin cliente, t54
+7600.0, Fin cliente, t55
+7600.0, Fin cliente, t56
+7600.0, Fin cliente, t57
+7600.0, Fin cliente, t58
+7600.0, Fin cliente, t59
+7600.0, Fin cliente, t60
+7600.0, Fin cliente, t61
+7600.0, Fin cliente, t62
+7600.0, Fin cliente, t63
+7600.0, Fin cliente, t64
+7600.0, Fin cliente, t65
+7600.0, Fin cliente, t66
+7600.0, Fin cliente, t67
+7600.0, Fin cliente, t68
+7600.0, Fin cliente, t69
+7600.0, Fin cliente, t70
+7600.0, Fin cliente, t71
+7621.06370082, Arribo cliente, i88, independencia, puerto
+7687.77070951, Arribo cliente, p95, puerto, tres-cruces
+7722.42201103, Arribo cliente, t79, tres-cruces, puerto
+7733.19365307, Arribo cliente, t80, tres-cruces, puerto
+7761.73756992, Arribo cliente, p96, puerto, tres-cruces
+7769.39121634, Arribo cliente, i89, independencia, puerto
+7875.31863211, Arribo cliente, t81, tres-cruces, puerto
+7930.25416344, Arribo cliente, t82, tres-cruces, puerto
+7948.53034105, Arribo cliente, p97, puerto, tres-cruces
+7962.38411223, Arribo cliente, p98, puerto, tres-cruces
+8000.0, Salida tren, 8, puerto, tres-cruces
+8000.0, Arribo tren, 8, puerto
+8000.0, Espera, p98, puerto,37.615887767
+8000.0, Sube a tren, p98, puerto
+8000.0, Espera, p97, puerto,51.4696589548
+8000.0, Sube a tren, p97, puerto
+8000.0, Espera, p96, puerto,238.262430078
+8000.0, Sube a tren, p96, puerto
+8000.0, Espera, p95, puerto,312.229290485
+8000.0, Sube a tren, p95, puerto
+8000.0, Espera, p94, puerto,409.680220855
+8000.0, Sube a tren, p94, puerto
+8000.0, Espera, p93, puerto,461.787644045
+8000.0, Sube a tren, p93, puerto
+8000.0, Espera, p92, puerto,468.780647769
+8000.0, Sube a tren, p92, puerto
+8000.0, Espera, p91, puerto,499.726389663
+8000.0, Sube a tren, p91, puerto
+8000.0, Espera, p90, puerto,576.174017546
+8000.0, Sube a tren, p90, puerto
+8000.0, Espera, p89, puerto,782.753768259
+8000.0, Sube a tren, p89, puerto
+8000.0, Espera, p88, puerto,838.965146401
+8000.0, Sube a tren, p88, puerto
+8000.0, Espera, p87, puerto,944.262319379
+8000.0, Sube a tren, p87, puerto
+8000.0, Espera, p86, puerto,960.664672371
+8000.0, Sube a tren, p86, puerto
+8000.0, Espera, p85, puerto,1310.90602876
+8000.0, Sube a tren, p85, puerto
+8000.0, Espera, p84, puerto,1413.26484176
+8000.0, Sube a tren, p84, puerto
+8000.0, Espera, p83, puerto,1452.05423886
+8000.0, Sube a tren, p83, puerto
+8000.0, Espera, p82, puerto,1457.03604836
+8000.0, Sube a tren, p82, puerto
+8000.0, Espera, p81, puerto,1505.76910786
+8000.0, Sube a tren, p81, puerto
+8000.0, Espera, p80, puerto,1561.68402934
+8000.0, Sube a tren, p80, puerto
+8000.0, Espera, p79, puerto,1655.04642418
+8000.0, Sube a tren, p79, puerto
+8000.0, Espera, p78, puerto,1664.66434265
+8000.0, Sube a tren, p78, puerto
+8000.0, Espera, p77, puerto,1678.19322882
+8000.0, Sube a tren, p77, puerto
+8000.0, Espera, p76, puerto,1686.43930562
+8000.0, Sube a tren, p76, puerto
+8000.0, Espera, p75, puerto,1764.7897235
+8000.0, Sube a tren, p75, puerto
+8000.0, Espera, p74, puerto,1806.59871921
+8000.0, Sube a tren, p74, puerto
+8000.0, Espera, p73, puerto,1831.98432134
+8000.0, Sube a tren, p73, puerto
+8000.0, Espera, p72, puerto,1844.73685122
+8000.0, Sube a tren, p72, puerto
+8000.0, Espera, p71, puerto,1947.2405012
+8000.0, Sube a tren, p71, puerto
+8011.10349622, Arribo cliente, t83, tres-cruces, puerto
+8015.83611773, Arribo cliente, t84, tres-cruces, puerto
+8022.18004883, Arribo cliente, i90, independencia, tres-cruces
+8054.6797041, Arribo cliente, p99, puerto, tres-cruces
+8085.58013164, Arribo cliente, p100, puerto, tres-cruces
+8111.66011847, Arribo cliente, t85, tres-cruces, puerto
+8145.01690589, Arribo cliente, t86, tres-cruces, puerto
+8205.19531247, Arribo cliente, i91, independencia, tres-cruces
+8243.12953798, Arribo cliente, i92, independencia, puerto
+8270.7253871, Arribo cliente, i93, independencia, tres-cruces
+8278.75657914, Arribo cliente, p101, puerto, tres-cruces
+8288.49813685, Arribo cliente, i94, independencia, tres-cruces
+8300.0, Arribo tren, 8, independencia
+8300.0, Espera, i94, independencia,11.5018631534
+8300.0, Sube a tren, i94, independencia
+8300.0, Espera, i93, independencia,29.2746129023
+8300.0, Sube a tren, i93, independencia
+8300.0, Espera, i91, independencia,94.8046875298
+8300.0, Sube a tren, i91, independencia
+8300.0, Espera, i90, independencia,277.819951168
+8300.0, Sube a tren, i90, independencia
+8300.0, Espera, i87, independencia,753.932190525
+8300.0, Sube a tren, i87, independencia
+8300.0, Espera, i86, independencia,768.247114259
+8300.0, Sube a tren, i86, independencia
+8300.0, Espera, i80, independencia,1107.06012954
+8300.0, Sube a tren, i80, independencia
+8300.0, Espera, i78, independencia,1480.85599401
+8300.0, Sube a tren, i78, independencia
+8300.0, Espera, i77, independencia,1752.1234409
+8300.0, Sube a tren, i77, independencia
+8300.0, Espera, i76, independencia,1896.03144863
+8300.0, Sube a tren, i76, independencia
+8300.0, Espera, i75, independencia,1971.10991775
+8300.0, Sube a tren, i75, independencia
+8315.34225537, Arribo cliente, t87, tres-cruces, puerto
+8369.94167444, Arribo cliente, p102, puerto, tres-cruces
+8419.57193849, Arribo cliente, i95, independencia, puerto
+8419.75988485, Arribo cliente, p103, puerto, tres-cruces
+8452.34485289, Arribo cliente, t88, tres-cruces, puerto
+8465.62802544, Arribo cliente, t89, tres-cruces, puerto
+8473.52713183, Arribo cliente, t90, tres-cruces, puerto
+8480.28807957, Arribo cliente, p104, puerto, tres-cruces
+8521.72509218, Arribo cliente, t91, tres-cruces, puerto
+8600.0, Arribo tren, 8, tres-cruces
+8600.0, Fin tren, 8
+8600.0, Fin cliente, i75
+8600.0, Fin cliente, i76
+8600.0, Fin cliente, i77
+8600.0, Fin cliente, i78
+8600.0, Fin cliente, i80
+8600.0, Fin cliente, i86
+8600.0, Fin cliente, i87
+8600.0, Fin cliente, i90
+8600.0, Fin cliente, i91
+8600.0, Fin cliente, i93
+8600.0, Fin cliente, i94
+8600.0, Fin cliente, p71
+8600.0, Fin cliente, p72
+8600.0, Fin cliente, p73
+8600.0, Fin cliente, p74
+8600.0, Fin cliente, p75
+8600.0, Fin cliente, p76
+8600.0, Fin cliente, p77
+8600.0, Fin cliente, p78
+8600.0, Fin cliente, p79
+8600.0, Fin cliente, p80
+8600.0, Fin cliente, p81
+8600.0, Fin cliente, p82
+8600.0, Fin cliente, p83
+8600.0, Fin cliente, p84
+8600.0, Fin cliente, p85
+8600.0, Fin cliente, p86
+8600.0, Fin cliente, p87
+8600.0, Fin cliente, p88
+8600.0, Fin cliente, p89
+8600.0, Fin cliente, p90
+8600.0, Fin cliente, p91
+8600.0, Fin cliente, p92
+8600.0, Fin cliente, p93
+8600.0, Fin cliente, p94
+8600.0, Fin cliente, p95
+8600.0, Fin cliente, p96
+8600.0, Fin cliente, p97
+8600.0, Fin cliente, p98
+8616.03272274, Arribo cliente, p105, puerto, tres-cruces
+8623.6497205, Arribo cliente, p106, puerto, tres-cruces
+8650.75611401, Arribo cliente, p107, puerto, tres-cruces
+8679.11954277, Arribo cliente, p108, puerto, tres-cruces
+8690.81067229, Arribo cliente, p109, puerto, tres-cruces
+8706.63918525, Arribo cliente, i96, independencia, tres-cruces
+8709.41294128, Arribo cliente, i97, independencia, tres-cruces
+8735.8542701, Arribo cliente, p110, puerto, tres-cruces
+8741.33714437, Arribo cliente, p111, puerto, tres-cruces
+8767.2234765, Arribo cliente, p112, puerto, tres-cruces
+8792.60654431, Arribo cliente, i98, independencia, tres-cruces
+8807.94089424, Arribo cliente, t92, tres-cruces, puerto
+8808.92862077, Arribo cliente, i99, independencia, puerto
+8840.25721809, Arribo cliente, t93, tres-cruces, puerto
+8850.88653551, Arribo cliente, p113, puerto, tres-cruces
+8951.69045329, Arribo cliente, i100, independencia, puerto
+8975.9100818, Arribo cliente, p114, puerto, tres-cruces
+9000.0, Salida tren, 9, tres-cruces, puerto
+9000.0, Arribo tren, 9, tres-cruces
+9000.0, Espera, t93, tres-cruces,159.742781914
+9000.0, Sube a tren, t93, tres-cruces
+9000.0, Espera, t92, tres-cruces,192.059105763
+9000.0, Sube a tren, t92, tres-cruces
+9000.0, Espera, t91, tres-cruces,478.274907821
+9000.0, Sube a tren, t91, tres-cruces
+9000.0, Espera, t90, tres-cruces,526.472868174
+9000.0, Sube a tren, t90, tres-cruces
+9000.0, Espera, t89, tres-cruces,534.371974558
+9000.0, Sube a tren, t89, tres-cruces
+9000.0, Espera, t88, tres-cruces,547.655147112
+9000.0, Sube a tren, t88, tres-cruces
+9000.0, Espera, t87, tres-cruces,684.65774463
+9000.0, Sube a tren, t87, tres-cruces
+9000.0, Espera, t86, tres-cruces,854.983094108
+9000.0, Sube a tren, t86, tres-cruces
+9000.0, Espera, t85, tres-cruces,888.339881528
+9000.0, Sube a tren, t85, tres-cruces
+9000.0, Espera, t84, tres-cruces,984.163882266
+9000.0, Sube a tren, t84, tres-cruces
+9000.0, Espera, t83, tres-cruces,988.896503781
+9000.0, Sube a tren, t83, tres-cruces
+9000.0, Espera, t82, tres-cruces,1069.74583656
+9000.0, Sube a tren, t82, tres-cruces
+9000.0, Espera, t81, tres-cruces,1124.68136789
+9000.0, Sube a tren, t81, tres-cruces
+9000.0, Espera, t80, tres-cruces,1266.80634693
+9000.0, Sube a tren, t80, tres-cruces
+9000.0, Espera, t79, tres-cruces,1277.57798897
+9000.0, Sube a tren, t79, tres-cruces
+9000.0, Espera, t78, tres-cruces,1405.7242537
+9000.0, Sube a tren, t78, tres-cruces
+9000.0, Espera, t77, tres-cruces,1594.30050943
+9000.0, Sube a tren, t77, tres-cruces
+9000.0, Espera, t76, tres-cruces,1624.26203577
+9000.0, Sube a tren, t76, tres-cruces
+9000.0, Espera, t75, tres-cruces,1707.30800751
+9000.0, Sube a tren, t75, tres-cruces
+9000.0, Espera, t74, tres-cruces,1782.23446179
+9000.0, Sube a tren, t74, tres-cruces
+9000.0, Espera, t73, tres-cruces,1789.46786296
+9000.0, Sube a tren, t73, tres-cruces
+9000.0, Espera, t72, tres-cruces,1882.14266664
+9000.0, Sube a tren, t72, tres-cruces
+9003.08127972, Arribo cliente, i101, independencia, puerto
+9013.78607726, Arribo cliente, i102, independencia, tres-cruces
+9060.51294149, Arribo cliente, i103, independencia, puerto
+9080.04907948, Arribo cliente, i104, independencia, tres-cruces
+9212.52875636, Arribo cliente, t94, tres-cruces, puerto
+9218.258887, Arribo cliente, i105, independencia, tres-cruces
+9229.39671291, Arribo cliente, i106, independencia, puerto
+9234.01079679, Arribo cliente, i107, independencia, puerto
+9257.89341938, Arribo cliente, p115, puerto, tres-cruces
+9292.09421911, Arribo cliente, p116, puerto, tres-cruces
+9292.16052464, Arribo cliente, p117, puerto, tres-cruces
+9300.0, Arribo tren, 9, independencia
+9300.0, Espera, i107, independencia,65.9892032094
+9300.0, Sube a tren, i107, independencia
+9300.0, Espera, i106, independencia,70.603287094
+9300.0, Sube a tren, i106, independencia
+9300.0, Espera, i103, independencia,239.487058511
+9300.0, Sube a tren, i103, independencia
+9300.0, Espera, i101, independencia,296.918720276
+9300.0, Sube a tren, i101, independencia
+9300.0, Espera, i100, independencia,348.309546712
+9300.0, Sube a tren, i100, independencia
+9300.0, Espera, i99, independencia,491.071379225
+9300.0, Sube a tren, i99, independencia
+9300.0, Espera, i95, independencia,880.428061514
+9300.0, Sube a tren, i95, independencia
+9300.0, Espera, i92, independencia,1056.87046202
+9300.0, Sube a tren, i92, independencia
+9300.0, Espera, i89, independencia,1530.60878366
+9300.0, Sube a tren, i89, independencia
+9300.0, Espera, i88, independencia,1678.93629918
+9300.0, Sube a tren, i88, independencia
+9300.0, Espera, i85, independencia,1806.35583938
+9300.0, Sube a tren, i85, independencia
+9300.0, Espera, i84, independencia,1882.55179733
+9300.0, Sube a tren, i84, independencia
+9300.0, Espera, i83, independencia,1919.68277234
+9300.0, Sube a tren, i83, independencia
+9304.50357677, Arribo cliente, i108, independencia, puerto
+9340.08360131, Arribo cliente, t95, tres-cruces, puerto
+9463.67320565, Arribo cliente, p118, puerto, tres-cruces
+9507.68813139, Arribo cliente, p119, puerto, tres-cruces
+9564.27641216, Arribo cliente, i109, independencia, puerto
+9596.73869249, Arribo cliente, p120, puerto, tres-cruces
+9600.0, Arribo tren, 9, puerto
+9600.0, Fin tren, 9
+9600.0, Fin cliente, i83
+9600.0, Fin cliente, i84
+9600.0, Fin cliente, i85
+9600.0, Fin cliente, i88
+9600.0, Fin cliente, i89
+9600.0, Fin cliente, i92
+9600.0, Fin cliente, i95
+9600.0, Fin cliente, i99
+9600.0, Fin cliente, i100
+9600.0, Fin cliente, i101
+9600.0, Fin cliente, i103
+9600.0, Fin cliente, i106
+9600.0, Fin cliente, i107
+9600.0, Fin cliente, t72
+9600.0, Fin cliente, t73
+9600.0, Fin cliente, t74
+9600.0, Fin cliente, t75
+9600.0, Fin cliente, t76
+9600.0, Fin cliente, t77
+9600.0, Fin cliente, t78
+9600.0, Fin cliente, t79
+9600.0, Fin cliente, t80
+9600.0, Fin cliente, t81
+9600.0, Fin cliente, t82
+9600.0, Fin cliente, t83
+9600.0, Fin cliente, t84
+9600.0, Fin cliente, t85
+9600.0, Fin cliente, t86
+9600.0, Fin cliente, t87
+9600.0, Fin cliente, t88
+9600.0, Fin cliente, t89
+9600.0, Fin cliente, t90
+9600.0, Fin cliente, t91
+9600.0, Fin cliente, t92
+9600.0, Fin cliente, t93
+9622.02884634, Arribo cliente, i110, independencia, puerto
+9642.09888828, Arribo cliente, t96, tres-cruces, puerto
+9657.13031235, Arribo cliente, i111, independencia, tres-cruces
+9687.36800009, Arribo cliente, t97, tres-cruces, puerto
+9697.25318699, Arribo cliente, i112, independencia, puerto
+9750.09226079, Arribo cliente, t98, tres-cruces, puerto
+9860.8977251, Arribo cliente, i113, independencia, puerto
+10000.0, Salida tren, 10, puerto, tres-cruces
+10000.0, Arribo tren, 10, puerto
+10000.0, Espera, p120, puerto,403.261307509
+10000.0, Sube a tren, p120, puerto
+10000.0, Espera, p119, puerto,492.311868611
+10000.0, Sube a tren, p119, puerto
+10000.0, Espera, p118, puerto,536.326794349
+10000.0, Sube a tren, p118, puerto
+10000.0, Espera, p117, puerto,707.839475361
+10000.0, Sube a tren, p117, puerto
+10000.0, Espera, p116, puerto,707.905780888
+10000.0, Sube a tren, p116, puerto
+10000.0, Espera, p115, puerto,742.106580619
+10000.0, Sube a tren, p115, puerto
+10000.0, Espera, p114, puerto,1024.0899182
+10000.0, Sube a tren, p114, puerto
+10000.0, Espera, p113, puerto,1149.11346449
+10000.0, Sube a tren, p113, puerto
+10000.0, Espera, p112, puerto,1232.7765235
+10000.0, Sube a tren, p112, puerto
+10000.0, Espera, p111, puerto,1258.66285563
+10000.0, Sube a tren, p111, puerto
+10000.0, Espera, p110, puerto,1264.1457299
+10000.0, Sube a tren, p110, puerto
+10000.0, Espera, p109, puerto,1309.18932771
+10000.0, Sube a tren, p109, puerto
+10000.0, Espera, p108, puerto,1320.88045723
+10000.0, Sube a tren, p108, puerto
+10000.0, Espera, p107, puerto,1349.24388599
+10000.0, Sube a tren, p107, puerto
+10000.0, Espera, p106, puerto,1376.3502795
+10000.0, Sube a tren, p106, puerto
+10000.0, Espera, p105, puerto,1383.96727726
+10000.0, Sube a tren, p105, puerto
+10000.0, Espera, p104, puerto,1519.71192043
+10000.0, Sube a tren, p104, puerto
+10000.0, Espera, p103, puerto,1580.24011515
+10000.0, Sube a tren, p103, puerto
+10000.0, Espera, p102, puerto,1630.05832556
+10000.0, Sube a tren, p102, puerto
+10000.0, Espera, p101, puerto,1721.24342086
+10000.0, Sube a tren, p101, puerto
+10000.0, Espera, p100, puerto,1914.41986836
+10000.0, Sube a tren, p100, puerto
+10000.0, Espera, p99, puerto,1945.3202959
+10000.0, Sube a tren, p99, puerto

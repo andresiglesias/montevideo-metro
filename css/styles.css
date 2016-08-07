@@ -1,0 +1,82 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#map {
+  height: 100%;
+}
+
+.traza {
+  position: absolute;
+  bottom: 20px;
+  right: 50px;
+  width: 300px;
+  height: 300px;
+  z-index: 2000;
+  background-color: rgba(133, 133, 133, 0.8);
+  color: white;
+  overflow-y: scroll;
+}
+
+#eventos { width: 100%; }
+#eventos thead { background-color: #4A4A4A; }
+#eventos .hora { width: 20%; }
+#eventos .evento { width: 30%; }
+#eventos .clave { width: 50%; }
+#eventos .tren { background-color: #C0C0C0; }
+#eventos .fin { background-color: rgba(255,64,64,0.8); }
+
+.esperas {
+  position: absolute;
+  bottom: 20px;
+  right: 360px;
+  width: 300px;
+  height: 100px;
+  z-index: 2000;
+  background-color: rgba(238, 197, 145, 0.8);
+  color: white;
+  overflow-y: scroll;
+}
+
+#estaciones { width: 100%; }
+#estaciones thead { background-color: #EE7600; }
+#estaciones .estacion { width: 50%; }
+#estaciones .espera { width: 50%; }
+#estaciones tbody { color: #8B4500; }
+
+.barra {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 2000;
+  background-color: rgb(13, 78, 139);
+  color: white;
+}
+
+.barra .logo {
+  padding: 0.5em;
+  float: left;
+  padding-left: 15px;
+}
+
+.barra .logo img {
+  float: left;
+}
+
+.barra .titulo {
+  position: absolute;
+  bottom: 20px;
+  left: 70px;
+}
+
+.cargar {
+  float: right;
+  padding: 1em;
+}
+
+.estacion {
+  text-align: center;
+}

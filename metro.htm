@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Metro de Montevideo</title>
+    <script type="text/javascript" src="js/infobubble.js"></script>
+    <script type="text/javascript" src="js/metro.js"></script>
+    <script type="text/javascript" src="js/jquery-2.2.4.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <div class="barra">
+        <div class="logo">
+          <img src="img/logo.png" alt="Logo" width="48" height="48">
+          <div class="titulo">Metro de Montevideo</div>
+        </div>
+        <div class="cargar">
+          Seleccione archivo con eventos:
+          <input type="file" id="fileInput">
+        </div>
+    </div>
+    <div class="traza">
+      <table id="eventos">
+        <thead>
+          <tr>
+            <th class="hora">Hora</th>
+            <th class="evento">Evento</th>
+            <th class="clave">clave</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="esperas">
+      <table id="estaciones">
+        <thead>
+          <tr>
+            <th class="estacion">Estación</th>
+            <th class="espera">Espera promedio</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tres Cruces</td>
+            <td id="tres-cruces">0</td>
+          </tr>
+          <tr>
+            <td>Independencia</td>
+            <td id="independencia">0</td>
+          </tr>
+          <tr>
+            <td>Puerto</td>
+            <td id="puerto">0</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div id="map"></div>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC7qUZXfkDekY71KYSZO9Tdcc0KGfqo9LI&callback=initMap"
+    async defer></script>
+  </body>
+</html>
